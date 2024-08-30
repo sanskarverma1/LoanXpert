@@ -89,7 +89,7 @@ public class AccountsController {
     }
 
     @Operation(
-            summary = "Update Account Details REST API",
+            summary = "Update AccountDetails REST API",
             description = "REST API to update Customer &  Account details based on a account number"
     )
     @ApiResponses({
